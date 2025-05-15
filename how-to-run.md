@@ -1,0 +1,1 @@
+ docker run -itv $(pwd):/app -w /app -p 8080:8080 php-swoole  bash 
